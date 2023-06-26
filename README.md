@@ -10,7 +10,7 @@
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MonzoorElahi.MonzoorElahi">
 <h5 align="center">
-  <code><a href="https://www.facebook.com/kklivenow" title="Facebook"><img width="27" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"> Facebook</a></code>
+  <code><a href="https://www.facebook.com/elahi.ishat" title="Facebook"><img width="27" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/kk_ishat/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 <code><a href="https://open.spotify.com/user/zbsl4yar58cswt1tm7i71owo1/playlists" title="Spotify"><img width="30" src="https://img.icons8.com/plasticine/100/000000/spotify--v2.png"> Spotify</a></code>
 </h5>
@@ -61,7 +61,7 @@
 <!-- Connect -->
 ## 🙋 Let's Connect
 <p align="center">
-	<a href="https://sites.google.com/view/kklivenow/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="http://monzoorelahi.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/MonzoorElahi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/ishatmemes/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/kk_ishat/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
