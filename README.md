@@ -23,7 +23,7 @@
   <br>
   💻 I love writing code and learning anything about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website
+  📚 Most of the repos are private, so the statistics below are not correctly shown!!
   <br>
   💬 Ask me anything about from <a href="https://github.com/MonzoorElahi/MonzoorElahi/issues" title="Issues">Here</a>
   <br>
