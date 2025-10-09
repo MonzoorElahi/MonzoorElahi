@@ -27,7 +27,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/MonzoorElahi/MonzoorElahi/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://pplx.ai/monzoorabd69068" title="FIIXXTT">Here</a>
+  💬 PERPLEXITY PRO <a href="https://pplx.ai/monzoorabd69068" title="FIIXXTT">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:monzoor.abdullah@northsouth.edu">monzoor.abdullah@northsouth.edu</a>
 </p>
