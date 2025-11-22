@@ -36,7 +36,6 @@
 - 🧠 **Current Focus:** Enhancing my algorithmic thinking and full-stack skills.
 - 🤫 **Note:** Most of my repositories are private (Academic integrity matters!), so the stats below might not tell the full story.
 - ⚡ **Fun fact:** I prefer tabs over spaces.
-- 🤖 Try **Perplexity Pro** here: [Referral Link](https://pplx.ai/monzoorabd69068)
 
 ---
 
