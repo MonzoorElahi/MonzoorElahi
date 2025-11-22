@@ -21,7 +21,7 @@
     <a href="mailto:monzoor.abdullah@northsouth.edu">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="[https://monzoorelahi.github.io/](https://monzoor-elahi.vercel.app/)">
+    <a href="https://monzoor-elahi.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
